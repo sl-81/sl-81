@@ -7,7 +7,7 @@ I'm Shiyu, a third year student currently completing the Bachelor of Computer Sc
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,react,python,java,bootstrap,c,cpp,sqlite)](https://skillicons.dev)
 
-🌟 Thanks for stopping by! 
+🌟 Thanks for stopping by and feel free to reach me at https://www.linkedin.com/in/shiyu81/
 <!--**sl-81/sl-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
